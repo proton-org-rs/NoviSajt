@@ -1,0 +1,82 @@
+baseURL = "https://example.com"
+title = "Proton"
+author = "Stasa"
+languageCode = "srb"
+DefaultContentLanguage = "srb"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+
+  showBlog = true
+  mainSections = ['projekti']
+
+  googleFonts = true
+
+  [params.logo]
+    main = "img/logo/logo.svg"
+    alt = "Tella Logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-10"
+
+  [params.site]
+    name = "Tella"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fontawesome = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Neprofitna studentska organizacija nastala 24.02.2025."
+    meta_og_title = "Proton"
+    meta_og_type = "website"
+    meta_og_url = "https://tella.pages.dev"
+    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    meta_og_description = "Neprofitna studentska organizacija nastala 24.02.2025."
+    meta_twitter_card = "summary_large_image"
+    meta_twitter_site = "@username"
+    meta_twitter_creator = "@username"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "projekti"
+    name = "Projekti"
+    url = "/projekti/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "o_nama"
+    name = "O nama"
+    url = "/o_nama/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 3
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Github"
+    url = "/"
+    pre = "<i class='icon-github text-2xl'></i>"
+      weight = 2

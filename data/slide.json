@@ -1,0 +1,15 @@
+[
+  {
+    "title": "",
+    "image": "img/slide/slide1.jpg"
+  },
+  {
+    "title": "Nalazimo se u zgradi ETF-a",
+    "image": "img/slide/slide2.jpg"
+  },
+  {
+    "title": "Stiže radionica robotike...",
+    "image": "img/slide/slide3.png",
+    "color": "text-black"
+  }
+]

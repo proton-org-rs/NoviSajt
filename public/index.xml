@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proton</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Proton</description>
+    <generator>Hugo</generator>
+    <language>srb</language>
+    <lastBuildDate>Thu, 15 May 2025 13:54:05 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Project</title>
+      <link>http://localhost:1313/products_stari/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products_stari/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O nama</title>
+      <link>http://localhost:1313/o_nama/</link>
+      <pubDate>Thu, 15 May 2025 13:54:05 +0200</pubDate>
+      <guid>http://localhost:1313/o_nama/</guid>
+      <description>&lt;p&gt;Neprofitna organizacija nastala 24.02.2025.&#xA;Organizujemo edukativne događaje, takmičenja i projekte koji unapređuju nastavu i lični razvoj.&lt;/p&gt;&#xA;&lt;p&gt;Statut organizacije dostupan je na &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vTnBfRK2QuYSLi8Eaa3v2PCy2nqk_mTsiDOfsgQb0FVY7bbgHQxH_hNAj_7XOZCJ6PakQPoVMoWzSya/pub&#34;&gt;linku&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Plan rada za školsku 2024/2025. godinu dostupan je na &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vQY2GNNWp9zVAOGDygWrzu1e1HFQFTjZkomlSX-dAlbI-MO2SYPIrpqZzkanY2Sn5TKoDGcSxf1iWmq/pub&#34;&gt;linku&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tests</title>
+      <link>http://localhost:1313/home/clanovi/</link>
+      <pubDate>Thu, 15 May 2025 13:54:05 +0200</pubDate>
+      <guid>http://localhost:1313/home/clanovi/</guid>
+      <description>&lt;p&gt;Hfjksdjsdk&#xA;Upravni odbor:&lt;/p&gt;&#xA;&lt;p&gt;Izvrsni odbor:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tests</title>
+      <link>http://localhost:1313/home/dogadjaji/</link>
+      <pubDate>Thu, 15 May 2025 13:54:05 +0200</pubDate>
+      <guid>http://localhost:1313/home/dogadjaji/</guid>
+      <description>&lt;p&gt;Hackaton - robotika&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/projekti/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projekti/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/projekti/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projekti/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/projekti/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projekti/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/projekti/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projekti/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description>&lt;p&gt;Novi članovi su dobrodošli! Potrebno je samo da popunite formu na &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSe8VhbIKQVcyJ1Gwri2Lqd35Qkz1MdyumFK83UUlVyKVTWH8g/viewform&#34;&gt;linku&lt;/a&gt;.&lt;/p&gt;&#xA;&#xA;&lt;style&gt;&#xA;.canon { background: white; width: 100%; height: auto; }&#xA;&lt;/style&gt;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;.emojify {&#xA;&#x9;font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;&#xA;&#x9;font-size: 2rem;&#xA;&#x9;vertical-align: middle;&#xA;}&#xA;@media screen and (max-width:650px) {&#xA;  .nowrap {&#xA;    display: block;&#xA;    margin: 25px 0;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34;&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Email&#34; name=&#34;mail&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Proton</title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on Proton</description>
+    <generator>Hugo</generator>
+    <language>srb</language>
+    <lastBuildDate>Thu, 15 May 2025 13:54:05 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tests</title>
+      <link>http://localhost:1313/home/clanovi/</link>
+      <pubDate>Thu, 15 May 2025 13:54:05 +0200</pubDate>
+      <guid>http://localhost:1313/home/clanovi/</guid>
+      <description>&lt;p&gt;Hfjksdjsdk&#xA;Upravni odbor:&lt;/p&gt;&#xA;&lt;p&gt;Izvrsni odbor:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tests</title>
+      <link>http://localhost:1313/home/dogadjaji/</link>
+      <pubDate>Thu, 15 May 2025 13:54:05 +0200</pubDate>
+      <guid>http://localhost:1313/home/dogadjaji/</guid>
+      <description>&lt;p&gt;Hackaton - robotika&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
